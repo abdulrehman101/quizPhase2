@@ -1,0 +1,209 @@
+{
+	"product": [
+		{
+			"pid": 100,
+			"pname": "Tv",
+			"price": 95000
+		},
+		{
+			"pid": 101,
+			"pname": "Computer",
+			"price": 75000
+		},
+		{
+			"pid": 102,
+			"pname": "Laptop",
+			"price": 45000
+		},
+		{
+			"pid": 103,
+			"pname": "Bike",
+			"price": 255000
+		}
+	],
+	"notproduct": [
+		{
+			"pid": 100,
+			"pname": "Tv",
+			"price": 95000
+		},
+		{
+			"pid": 101,
+			"pname": "Computer",
+			"price": 75000
+		},
+		{
+			"pid": 102,
+			"pname": "Laptop",
+			"price": 45000
+		},
+		{
+			"pid": 103,
+			"pname": "Bike",
+			"price": 255000
+		}
+	],
+	"JavaScript": [
+		{
+			"question": "Which of the following isn't a JSON type?",
+			"optionA": "String",
+			"optionB": "Object",
+			"optionC": "Date",
+			"optionD": "Array",
+			"answer": "Date"
+		},
+		{
+			"question": "Is whitespace matter in JSON?",
+			"optionA": "No, it will be stripped out.",
+			"optionB": "Yes, both inside and outside of strings",
+			"optionC": "Yes, only within strings",
+			"optionD": "Yes, only outside of strings",
+			"answer": "Yes, only within strings"
+		},
+		{
+			"question": "Who is the creator of JSON ?",
+			"optionA": "Sergey Brin",
+			"optionB": "Douglas Crockford",
+			"optionC": "Liam Crockford",
+			"optionD": "None of these",
+			"answer": "Douglas Crockford"
+		},
+		{
+			"question": "What is the purpose of method JSON.parse()?",
+			"optionA": "Parses a string from JSON to JSON2",
+			"optionB": "Parses a string to integer",
+			"optionC": "Parses a string to JSON",
+			"optionD": "Parses integer to string",
+			"answer": "Parses a string to JSON"
+		},
+		{
+			"question": "Which of the following is the fastest JavaScript parser?",
+			"optionA": "Acron",
+			"optionB": "JSLint",
+			"optionC": "Esprima",
+			"optionD": "Traceur",
+			"answer": "Acron"
+		},
+		{
+			"question": "which of the following isn't create the object?",
+			"optionA": "Object literals",
+			"optionB": "Constructors",
+			"optionC": "Object.create",
+			"optionD": "Object Construct",
+			"answer": "Object Construct"
+		},
+		{
+			"question": "What is the full form of JSON",
+			"optionA": "JavaScripts Objection Notation",
+			"optionB": "JavaScript Object Notation",
+			"optionC": "JavaScript On Notation",
+			"optionD": "None of these",
+			"answer": "JavaScript Object Notation"
+		},
+		{
+			"question": "What is JSON data?",
+			"optionA": "Exchanging data",
+			"optionB": "Non-exchanging data",
+			"optionC": "Changing data",
+			"optionD": "None of these",
+			"answer": "Exchanging data"
+		},
+		{
+			"question": "Which of the following is a JavaScript Compressor?",
+			"optionA": "UgilifyJS",
+			"optionB": "Esprima",
+			"optionC": "Compressify",
+			"optionD": "Acron",
+			"answer": "UgilifyJS"
+		},
+		{
+			"question": "Which of the following is the fastest JavaScript parser?",
+			"optionA": "JSLint",
+			"optionB": "Traceu",
+			"optionC": "Esprima",
+			"optionD": "Acron",
+			"answer": "Acron"
+		}
+	],"TypeScript": [
+		{
+			"question": "Who developed and designed TypeScript?",
+			"optionA": "Microsoft",
+			"optionB": "Amazon",
+			"optionC": "Oracle",
+			"optionD": "TypeScript",
+			"answer": "Microsoft"
+		},
+		{
+			"question": "When was the first time TypeScript was made public?",
+			"optionA": "December 2012",
+			"optionB": "October 2012",
+			"optionC": "October 2013",
+			"optionD": "November 2013",
+			"answer": "October 2012"
+		},
+		{
+			"question": "Which of the following is the typing principle of typescript?",
+			"optionA": "Gradual",
+			"optionB": "Dynamic",
+			"optionC": "Duck",
+			"optionD": "All of the above",
+			"answer": "All of the above"
+		},
+		{
+			"question": "Which of the following is a filename extension for typescript?",
+			"optionA": "tsx",
+			"optionB": "nod",
+			"optionC": "txt",
+			"optionD": "tt",
+			"answer": "tsx"
+		},
+		{
+			"question": "Among which of the following computer programming language influenced the creation of typescript?",
+			"optionA": "Java",
+			"optionB": "JavaScript",
+			"optionC": "C#",
+			"optionD": "All of the above",
+			"answer": "All of the above"
+		},
+		{
+			"question": "The ...... Service powers the interactive TypeScript experience in Visual Studio, Vs Code, Sublime, the TypeScript playground and other editor.",
+			"optionA": "Typescript language",
+			"optionB": "TypeScript compiler",
+			"optionC": "Typescript main",
+			"optionD": "TypeScript method",
+			"answer": "Typescript language"
+		},
+		{
+			"question": "The following are backported features of typescript, except?",
+			"optionA": "Classes",
+			"optionB": "Methods",
+			"optionC": "Modules",
+			"optionD": "Arrow",
+			"answer": "Methods"
+		},
+		{
+			"question": "A typescript can be installed or managed through?",
+			"optionA": "Void",
+			"optionB": "Space",
+			"optionC": "Nmp",
+			"optionD": "Tag",
+			"answer": "Nmp"
+		},
+		{
+			"question": "Which Object Oriented Terms are Supported by Typescript?",
+			"optionA": "Modulus",
+			"optionB": "Interface",
+			"optionC": "Classes",
+			"optionD": "All of the above",
+			"answer": "All of the above"
+		},
+		{
+			"question": ".... are the way to organise code in typescript.",
+			"optionA": "Modules",
+			"optionB": "Classes",
+			"optionC": "Method",
+			"optionD": "Arrow",
+			"answer": "Modules"
+		}
+	]
+}

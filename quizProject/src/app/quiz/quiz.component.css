@@ -1,0 +1,15 @@
+.questions {
+    background-color: gainsboro;
+    padding: 5px;
+}
+.right {
+    background-color: lightgreen;
+}
+.wrong {
+    background-color: lightcoral;
+}
+
+.right, .wrong {
+    padding: 10px;
+    padding-left: 20px;
+}
